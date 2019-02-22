@@ -1,0 +1,4 @@
+#Fri Feb 22 17:38:03 EET 2019
+base.0=/Users/kirilstoianov/Android/projects/BundleView/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

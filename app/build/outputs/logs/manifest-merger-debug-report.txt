@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2db227d300f026a298c0d7ab4308831c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ff80cb55fccb6ccb4178755a6d6b457/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e17e562889a5228738d2d570d8c83ed0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62e5465be6fecfc949ef0827be73abd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f07bc5133c727b72bdeb272bc275b1f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7ace76d10afd287a75b9e93d417f0de6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5875bca496fe01f1893a62d7d88f84cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4157c8b631bb611af6dc299bae227f62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a025884bcd7d94234137789d078a4c42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/984493b3e194147a628fef83edc38e86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fe59f46c6e28a867f8146b35029f563c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c9907daf947bb032e60b320b0fe6a42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3df9758b4e6bd3540e157e55e331bc6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/431f98b157db0a89d7810f08572bae36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ee1a9db01dc5a370301af295b8436376/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e5e8e9181c3aa942c874cec263355417/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1f1829678b2a178848a5361de467b5e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/20849bd58285b01b62a8e5cef32318f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6a23b086e99ad695400ceaa1d7f8396/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d93b08aee332230cf63587cdab67d23f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fbe83401fed5ae42d641a8b8303fa24f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/0d614253cfccf6ecc5535391d0709c93/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/77c2b6dc6724fc1911f815cd2b6a0a3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/07f917f7575e7bd1c07af5683d475db4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0909a4b03b415ee56e75fe57b12bb9f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/51b63ca133550437c0d94a61db50012d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/477085a4bbbdd7177c8f7b69ce798afd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5c8117f220e472057d30da7838c4fd6a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/95bf5302e2fb0bdebd08222adc9ce36c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fa1ae1a04bbaaae5cf52628c2bea9a5f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/777b130a9777d205fbe354277e8b74e9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:3:11-42
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2db227d300f026a298c0d7ab4308831c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2db227d300f026a298c0d7ab4308831c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e17e562889a5228738d2d570d8c83ed0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e17e562889a5228738d2d570d8c83ed0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6a23b086e99ad695400ceaa1d7f8396/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6a23b086e99ad695400ceaa1d7f8396/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d93b08aee332230cf63587cdab67d23f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d93b08aee332230cf63587cdab67d23f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6a23b086e99ad695400ceaa1d7f8396/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.common.bundleview.MainActivity
+ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:14:17-49
+	android:theme
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:13:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2db227d300f026a298c0d7ab4308831c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2db227d300f026a298c0d7ab4308831c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ff80cb55fccb6ccb4178755a6d6b457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ff80cb55fccb6ccb4178755a6d6b457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e17e562889a5228738d2d570d8c83ed0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e17e562889a5228738d2d570d8c83ed0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62e5465be6fecfc949ef0827be73abd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62e5465be6fecfc949ef0827be73abd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f07bc5133c727b72bdeb272bc275b1f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f07bc5133c727b72bdeb272bc275b1f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7ace76d10afd287a75b9e93d417f0de6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7ace76d10afd287a75b9e93d417f0de6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5875bca496fe01f1893a62d7d88f84cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5875bca496fe01f1893a62d7d88f84cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4157c8b631bb611af6dc299bae227f62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4157c8b631bb611af6dc299bae227f62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a025884bcd7d94234137789d078a4c42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a025884bcd7d94234137789d078a4c42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/984493b3e194147a628fef83edc38e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/984493b3e194147a628fef83edc38e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fe59f46c6e28a867f8146b35029f563c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fe59f46c6e28a867f8146b35029f563c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c9907daf947bb032e60b320b0fe6a42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c9907daf947bb032e60b320b0fe6a42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3df9758b4e6bd3540e157e55e331bc6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3df9758b4e6bd3540e157e55e331bc6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/431f98b157db0a89d7810f08572bae36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/431f98b157db0a89d7810f08572bae36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ee1a9db01dc5a370301af295b8436376/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ee1a9db01dc5a370301af295b8436376/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e5e8e9181c3aa942c874cec263355417/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e5e8e9181c3aa942c874cec263355417/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1f1829678b2a178848a5361de467b5e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1f1829678b2a178848a5361de467b5e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/20849bd58285b01b62a8e5cef32318f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/20849bd58285b01b62a8e5cef32318f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6a23b086e99ad695400ceaa1d7f8396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e6a23b086e99ad695400ceaa1d7f8396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d93b08aee332230cf63587cdab67d23f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d93b08aee332230cf63587cdab67d23f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fbe83401fed5ae42d641a8b8303fa24f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fbe83401fed5ae42d641a8b8303fa24f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/0d614253cfccf6ecc5535391d0709c93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/0d614253cfccf6ecc5535391d0709c93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/77c2b6dc6724fc1911f815cd2b6a0a3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/77c2b6dc6724fc1911f815cd2b6a0a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/07f917f7575e7bd1c07af5683d475db4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/07f917f7575e7bd1c07af5683d475db4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0909a4b03b415ee56e75fe57b12bb9f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0909a4b03b415ee56e75fe57b12bb9f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/51b63ca133550437c0d94a61db50012d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/51b63ca133550437c0d94a61db50012d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/477085a4bbbdd7177c8f7b69ce798afd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/477085a4bbbdd7177c8f7b69ce798afd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5c8117f220e472057d30da7838c4fd6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5c8117f220e472057d30da7838c4fd6a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/95bf5302e2fb0bdebd08222adc9ce36c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/95bf5302e2fb0bdebd08222adc9ce36c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fa1ae1a04bbaaae5cf52628c2bea9a5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fa1ae1a04bbaaae5cf52628c2bea9a5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/777b130a9777d205fbe354277e8b74e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kirilstoianov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/777b130a9777d205fbe354277e8b74e9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirilstoianov/Android/projects/BundleView/app/src/main/AndroidManifest.xml
