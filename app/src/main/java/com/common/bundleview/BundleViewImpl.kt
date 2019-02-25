@@ -228,9 +228,9 @@ class BundleViewImpl(context: Context, attributeSet: AttributeSet?, def: Int) : 
 
         tooltipText?.apply {
             val bounds = Rect()
-            tooltipPaint.getTextBounds(this, 0, this.length, bounds)
+            tooltipTextPaint.getTextBounds(this, 0, this.length, bounds)
             val textX: Float = (width / 2f) - (bounds.width() / 2f)
-            val textY: Float = (height / 2f) - (bounds.height()/2f)
+            val textY: Float = (calculateTooltipHeight()/2) + (bounds.height() / 2f)
             canvas.drawText(this, 0, this.length, textX, textY, tooltipTextPaint)
         }
     }
