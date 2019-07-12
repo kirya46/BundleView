@@ -5,14 +5,12 @@ package com.common.bundleview
  */
 interface BundleView {
 
-    enum class Type { SIMPLE, SIMPLE_OLD_PRICE, DISCOUNT, FEATURE }
-
-    fun setBundle(bundle: Any)
-    fun setBundleType(type: Type)
+    fun setData()
 
     fun showTooltip()
     fun hideTooltip()
-    fun animateTooltip()
 
     fun setChoose(choose: Boolean)
+
+    class Builder{}
 }

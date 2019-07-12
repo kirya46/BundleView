@@ -1,10 +1,11 @@
-package com.common.bundleview
+package com.common.ui
 
 import android.os.Bundle
 import android.os.Handler
 import android.support.v7.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
+import com.common.bundleview.R
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_main.*
 
@@ -14,9 +15,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setSupportActionBar(toolbar)
-
-        bundleView.tooltipText = "popular_popular"
-        Handler().postDelayed({bundleView.showTooltip = true},500)
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
